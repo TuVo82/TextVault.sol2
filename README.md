@@ -15,3 +15,4 @@ contract TextVault {
     }
 }
 Create storage contract
+Add basic validation
