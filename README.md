@@ -16,3 +16,4 @@ contract TextVault {
 }
 Create storage contract
 Add basic validation
+Adjust gas optimization logic
