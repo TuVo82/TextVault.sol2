@@ -19,3 +19,4 @@ Add basic validation
 Adjust gas optimization logic
 Finalize contract structure
 validation
+Fix small typo
