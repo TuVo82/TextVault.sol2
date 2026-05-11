@@ -21,3 +21,4 @@ Finalize contract structure
 validation
 Fix small typo
 Add event logging
+Fix incorrect return
